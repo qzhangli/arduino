@@ -1,4 +1,3 @@
-// 
 // Modified by Jonathan Doerr March 12, 2014
 // Copyright 2013 - Under creative commons license 3.0:
 //        Attribution-ShareAlike CC BY-SA
